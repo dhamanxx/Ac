@@ -1,0 +1,130 @@
+Partlist
+
+Exported from ac_mk2.sch at 12. 10. 2011 7:52:27
+
+EAGLE Version 5.11.0 Copyright (c) 1988-2010 CadSoft
+
+Part      Value          Device                Package                Library        Sheet
+
+C1        100p           C5/3.5                C5B3.5                 capacitor-wima 1
+C2        220p           C5/3.5                C5B3.5                 capacitor-wima 1
+C3        330p           C5/3.5                C5B3.5                 capacitor-wima 1
+C4        470p           C5/3.5                C5B3.5                 capacitor-wima 1
+C5        33p            KERAMICKYRM5          KERAMICKY_RM5          #Kondenzatory  1
+C6        3u3            C-10-15/6             C10-15B6               capacitor-wima 1
+C7        100p           C5/3.5                C5B3.5                 capacitor-wima 1
+C8        15n            C5/3.5                C5B3.5                 capacitor-wima 1
+C9        10u/35V        CT07                  CT07                   #_GM99         1
+C10       47u/35V        CT07                  CT07                   #_GM99         1
+C11       68n            C5/3.5                C5B3.5                 capacitor-wima 1
+C12       10p            KERAMICKYRM5          KERAMICKY_RM5          #Kondenzatory  1
+C13       470n           C5/5.5                C5B5.5                 capacitor-wima 1
+C21       100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C22       100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C23       100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C24       220uF/35V      ELEKTROLITICKYRM3,5-8 ELEKTROLITICKY_RM3,5-8 #Kondenzatory  1
+C25       10uF/35V       CT07                  CT07                   #_GM99         1
+C26       100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C27       100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C28       220uF/35V      ELEKTROLITICKYRM3,5-8 ELEKTROLITICKY_RM3,5-8 #Kondenzatory  1
+C29       10uF/35V       CT07                  CT07                   #_GM99         1
+C101      10n            C5/3.5                C5B3.5                 capacitor-wima 1
+C102      10n            C5/3.5                C5B3.5                 capacitor-wima 1
+C103      10n            C5/3.5                C5B3.5                 capacitor-wima 1
+C104      10n            C5/3.5                C5B3.5                 capacitor-wima 1
+C105      2200uF/35V     E16X25                E160                   #_GM99         1
+C106      2200uF/35V     E16X25                E160                   #_GM99         1
+C107      680n           C5/5.5                C5B5.5                 capacitor-wima 1
+C108      680n           C5/5.5                C5B5.5                 capacitor-wima 1
+C201      100p           C5/3.5                C5B3.5                 capacitor-wima 1
+C202      220p           C5/3.5                C5B3.5                 capacitor-wima 1
+C203      330p           C5/3.5                C5B3.5                 capacitor-wima 1
+C204      470p           C5/3.5                C5B3.5                 capacitor-wima 1
+C205      33p            KERAMICKYRM5          KERAMICKY_RM5          #Kondenzatory  1
+C206      3u3            C-10-15/6             C10-15B6               capacitor-wima 1
+C207      100p           C5/3.5                C5B3.5                 capacitor-wima 1
+C208      15n            C5/3.5                C5B3.5                 capacitor-wima 1
+C209      10u/35V        CT07                  CT07                   #_GM99         1
+C210      47u/35V        CT07                  CT07                   #_GM99         1
+C211      68n            C5/3.5                C5B3.5                 capacitor-wima 1
+C212      10p            KERAMICKYRM5          KERAMICKY_RM5          #Kondenzatory  1
+C213      470n           C5/5.5                C5B5.5                 capacitor-wima 1
+C221      100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C222      100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C223      100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C224      220uF/35V      ELEKTROLITICKYRM3,5-8 ELEKTROLITICKY_RM3,5-8 #Kondenzatory  1
+C225      10uF/35V       CT07                  CT07                   #_GM99         1
+C226      100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C227      100n           C5/3.5                C5B3.5                 capacitor-wima 1
+C228      220uF/35V      ELEKTROLITICKYRM3,5-8 ELEKTROLITICKY_RM3,5-8 #Kondenzatory  1
+C229      10uF/35V       CT07                  CT07                   #_GM99         1
+C301      10uF/35V       CT07                  CT07                   #_GM99         1
+C303      10uF/35V       CT07                  CT07                   #_GM99         1
+C305      10uF/35V       CT07                  CT07                   #_GM99         1
+C306      10uF/35V       CT07                  CT07                   #_GM99         1
+D301      1N4148         1N4148                DO41                   #_GM99         1
+D304      1N4148         1N4148                DO41                   #_GM99         1
+IC301     LM317          LM317TS               317TS                  v-reg          1
+IC302     LM337          LM337TS               337TS                  v-reg          1
+INL                      S02P                  S02P                   con-amp-mt     1
+INR                      S02P                  S02P                   con-amp-mt     1
+MM--MC                   SIL03PZ               SIL03PZ                #_GM99         1
+MM--MC_                  SIL03PZ               SIL03PZ                #_GM99         1
+OA1       NE5534         NE5534N               DIL08                  linear         1
+OA2       NE5534         NE5534N               DIL08                  linear         1
+OA3       LF411          LF411N                DIL08                  linear         1
+OA201     NE5534         NE5534N               DIL08                  linear         1
+OA202     NE5534         NE5534N               DIL08                  linear         1
+OA203     LF411          LF411N                DIL08                  linear         1
+OUTL                     S02P                  S02P                   con-amp-mt     1
+OUTR                     S02P                  S02P                   con-amp-mt     1
+P1        22k            TRIM_US-S64W          S64W                   pot            1
+P201      22k            TRIM_US-S64W          S64W                   pot            1
+R1        47k            R-EU_0207/10          0207/10                #Odpory        1
+R2        100            R-EU_0207/10          0207/10                #Odpory        1
+R3        2k7            R-EU_0207/10          0207/10                #Odpory        1
+R4        47k            R-EU_0207/10          0207/10                #Odpory        1
+R5        5k6            R-EU_0207/10          0207/10                #Odpory        1
+R6        300            R-EU_0207/10          0207/10                #Odpory        1
+R7        2k7            R-EU_0207/10          0207/10                #Odpory        1
+R8        2k2            R-EU_0207/10          0207/10                #Odpory        1
+R9        47k            R-EU_0207/10          0207/10                #Odpory        1
+R10       220k           R-EU_0207/10          0207/10                #Odpory        1
+R11       1M3            R-EU_0207/10          0207/10                #Odpory        1
+R12       220k           R-EU_0207/10          0207/10                #Odpory        1
+R29       10             R-EU_0207/10          0207/10                #Odpory        1
+R30       220            R-EU_0207/10          0207/10                #Odpory        1
+R31       2k2            R-EU_0207/10          0207/10                #Odpory        1
+R32       10             R-EU_0207/10          0207/10                #Odpory        1
+R33       220            R-EU_0207/10          0207/10                #Odpory        1
+R34       2k2            R-EU_0207/10          0207/10                #Odpory        1
+R201      47k            R-EU_0207/10          0207/10                #Odpory        1
+R202      100            R-EU_0207/10          0207/10                #Odpory        1
+R203      2k7            R-EU_0207/10          0207/10                #Odpory        1
+R204      47k            R-EU_0207/10          0207/10                #Odpory        1
+R205      5k6            R-EU_0207/10          0207/10                #Odpory        1
+R206      300            R-EU_0207/10          0207/10                #Odpory        1
+R207      2k7            R-EU_0207/10          0207/10                #Odpory        1
+R208      2k2            R-EU_0207/10          0207/10                #Odpory        1
+R209      47k            R-EU_0207/10          0207/10                #Odpory        1
+R210      220k           R-EU_0207/10          0207/10                #Odpory        1
+R211      1M3            R-EU_0207/10          0207/10                #Odpory        1
+R212      220k           R-EU_0207/10          0207/10                #Odpory        1
+R229      10             R-EU_0207/10          0207/10                #Odpory        1
+R230      220            R-EU_0207/10          0207/10                #Odpory        1
+R231      2k2            R-EU_0207/10          0207/10                #Odpory        1
+R232      10             R-EU_0207/10          0207/10                #Odpory        1
+R233      220            R-EU_0207/10          0207/10                #Odpory        1
+R234      2k2            R-EU_0207/10          0207/10                #Odpory        1
+R301      120            R-EU_0207/10          0207/10                #Odpory        1
+R302      1k8            R-EU_0207/10          0207/10                #Odpory        1
+R303      120            R-EU_0207/10          0207/10                #Odpory        1
+R304      1k8            R-EU_0207/10          0207/10                #Odpory        1
+S1-S4                    DIP4X                 EDG-04                 #_GM99         1
+S201-S204                DIP4X                 EDG-04                 #_GM99         1
+T3        BC546          BC546A                TO-92C                 #_GM99         1
+T4        BC556          BC556B                TO-92C                 #_GM99         1
+T203      BC546          BC546A                TO-92C                 #_GM99         1
+T204      BC556          BC556B                TO-92C                 #_GM99         1
+U1        B250C1000      B250C1500             DB1                    #_GM99         1
+~24V                     AK500/3               AK500/3                #Svorkovnice   1
